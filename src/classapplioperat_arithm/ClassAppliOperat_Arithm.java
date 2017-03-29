@@ -3,10 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package classapplioperat_arithm;
+package classapplioperat_arithm          ;
 
 /**
  *
+
  * @author Haman Eyarre
  */
 public class ClassAppliOperat_Arithm {
@@ -15,7 +16,7 @@ public class ClassAppliOperat_Arithm {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int x = 4 , y = 8 , z = 3, t = 7,calcul ;
+        int x =6, y = 8, z = 2, t = 7,calcul          ;
         calcul = x-- ; 
         System.out.println(" x = "+x+" x-- = "+calcul);
         calcul = y---1 ;
